@@ -1,0 +1,10 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+const char *ssid = "Your_WiFi_SSID";
+const char *password = "Your_WiFi_Password";
+
+const char *lnbitsHost = "https://your-lnbits-instance.com";
+const char *lnbitsReadApiKey = "Your_Read_Only_API_Key";
+
+#endif // CONFIG_H
