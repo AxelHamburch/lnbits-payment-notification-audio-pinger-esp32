@@ -29,7 +29,7 @@ cd lnbits-payment-notification-audio-pinger-esp32
 
 ### 3. Configure the Project
 
-Edit the `config.h` file in the project directory to include your Wi-Fi and LNbits details:
+Copy `src/config.h.example` to `src/config.h` and edit the configuration values:
 
 ```cpp
 #ifndef CONFIG_H
