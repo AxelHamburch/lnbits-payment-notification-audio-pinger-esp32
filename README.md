@@ -4,7 +4,7 @@ This is a PlatformIO project for the ESP32 microcontroller that plays an audible
 
 ## Features
 
-- Connects to an LNbits SSE endpoint.
+- Connects to an LNbits payments SSE endpoint.
 - Detects successful payment events in real-time.
 - Plays an audible tone on a piezo buzzer to notify the user.
 - Automatically reconnects in case of network interruptions or server downtime.
